@@ -23,6 +23,12 @@
             //float z = x + y;
             //Console.WriteLine(z);   
             #endregion
+
+            #region 4- Write C# program that Extract a substring from a given string
+            //string Name = "mohamed";
+            //string SecoundName = (string)Name;
+
+            #endregion
         }
     }
 }
