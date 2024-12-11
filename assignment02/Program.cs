@@ -67,6 +67,11 @@
             // d) 6 1
             #endregion
 
+            #region 10- 10-What will be the output of the C# code given below?
+            // the answer is 
+            // d)7 7
+
+            #endregion
         }
     }
 }
