@@ -57,6 +57,12 @@
             //Console.WriteLine( NameAndAge );
             #endregion
 
+            #region 8- Which of the following statements is correct about the C#.NET code snippet given below?
+            // the answer is 
+            // b) A value 1 will be assigned to d.
+            #endregion
+
+
         }
     }
 }
