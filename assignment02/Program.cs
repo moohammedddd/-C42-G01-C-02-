@@ -17,7 +17,12 @@
             //// format exception
             #endregion
 
-
+            #region 3- Write C# program that Perform a simple arithmetic operation with floating-point numbers And mention what will happen
+            //float x = 2.54F;
+            //float y = 54.55F;
+            //float z = x + y;
+            //Console.WriteLine(z);   
+            #endregion
         }
     }
 }
