@@ -62,6 +62,10 @@
             // b) A value 1 will be assigned to d.
             #endregion
 
+            #region 9- Which of the following is the correct output for the C# code given below?
+            // the answer is 
+            // d) 6 1
+            #endregion
 
         }
     }
