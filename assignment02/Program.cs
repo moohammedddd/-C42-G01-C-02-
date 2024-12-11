@@ -47,6 +47,16 @@
             //Console.WriteLine($" p1.x ={P1.x}, p1.y ={ P1.y}");
             //Console.WriteLine($" p2.x ={P2.x}, p2.y ={P2.y}");
             #endregion
+
+            #region 7- Write C# program that take two string variables and print them as one variable 
+            //Console.WriteLine("enter your name");
+            //string? name = Console.ReadLine();
+            //Console.WriteLine("enter your age ");
+            //int age = Convert.ToInt32(Console.ReadLine());
+            //string NameAndAge = ($"{age} {name}");
+            //Console.WriteLine( NameAndAge );
+            #endregion
+
         }
     }
 }
