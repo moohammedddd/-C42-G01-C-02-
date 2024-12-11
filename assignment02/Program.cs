@@ -29,6 +29,16 @@
             //string SecoundName = (string)Name;
 
             #endregion
+
+
+            #region 5- Write C# program that Assigning one value type variable to another and modifying the value of one variable and mention what will happen
+            //int x = 10;
+            //int y = 20;
+            //y = x;
+            //Console.WriteLine(y);
+            //Console.WriteLine(x);
+
+            #endregion
         }
     }
 }
