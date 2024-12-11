@@ -11,6 +11,13 @@
 
             #endregion
 
+            #region 2- Write C# program that converts a string to an integer, but the string contains non-numeric characters. And mention what will happen 
+            //int number = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine($"your number is {number}");
+            //// format exception
+            #endregion
+
+
         }
     }
 }
